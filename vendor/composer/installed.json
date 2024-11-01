@@ -1,0 +1,47 @@
+[
+    {
+        "name": "thebugromania/anaf-tva",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://bitbucket.org/thebugsoftwaredevelopment/anaf-tva.git",
+            "reference": "f50fc9f4a94e1753571fc5f937c9ecd4bfa50125"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://bitbucket.org/thebugsoftwaredevelopment/anaf-tva/get/f50fc9f4a94e1753571fc5f937c9ecd4bfa50125.zip",
+            "reference": "f50fc9f4a94e1753571fc5f937c9ecd4bfa50125",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=7.0"
+        },
+        "time": "2018-09-13T03:31:51+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "TheBugRomania\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Robert C. Chiribuc",
+                "email": "robert.chiribuc@thebug.io"
+            }
+        ],
+        "description": "Librărie pentru preluarea stării tva a companiilor din România folosind API-ul ANAF.",
+        "homepage": "https://bitbucket.org/thebugsoftwaredevelopment/anaf-tva"
+    }
+]

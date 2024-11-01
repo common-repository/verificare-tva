@@ -1,0 +1,23 @@
+{
+  "name": "robert/verificare-tva",
+  "description": "Un simplu plugin WordPress ce oferă utilizatorilor posibilitatea interogării companiilor din  România pentru informații fiscale",
+  "type": "WordPress-Plugin",
+  "authors": [
+    {
+      "name": "Robert C. Chiribuc",
+      "email": "robert.chiribuc@thebug.io"
+    }
+  ],
+  "require": {
+    "thebugromania/anaf-tva": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "TheBugTvaCore\\": "app/",
+      "TheBugTva\\": "src/"
+    },
+    "files": [
+      "helpers/app.php"
+    ]
+  }
+}

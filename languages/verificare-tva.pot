@@ -1,0 +1,116 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Verificare TVA\n"
+"POT-Creation-Date: 2018-09-19 08:07+0300\n"
+"PO-Revision-Date: 2018-09-19 08:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: verificare-tva.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: app/Services/Widgets/VatCheck/VatCheck.php:27
+msgid "Verificare TVA"
+msgstr ""
+
+#: app/Services/Widgets/VatCheck/VatCheck.php:30
+msgid ""
+"Permite vizitatorilor să verifice informațiile TVA ale companiilor din "
+"România."
+msgstr ""
+
+#: app/Views/admin/widgets/vat-check/view.php:3
+msgid "Widget title:"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:2
+msgid "Stare TVA la"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:5
+msgid "Denumire"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:10
+msgid "Adresa"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:15
+msgid "Plătitor TVA"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:17
+#: app/Views/web/widgets/vat-check/response.php:38
+#: app/Views/web/widgets/vat-check/response.php:58
+msgid "DA"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:18
+#: app/Views/web/widgets/vat-check/response.php:39
+#: app/Views/web/widgets/vat-check/response.php:59
+msgid "NU"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:23
+#: app/Views/web/widgets/vat-check/response.php:43
+#: app/Views/web/widgets/vat-check/response.php:63
+msgid "De la:"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:28
+#: app/Views/web/widgets/vat-check/response.php:48
+#: app/Views/web/widgets/vat-check/response.php:68
+msgid "Până la:"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:36
+msgid "TVA la încasare"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/response.php:56
+msgid "Split TVA"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/view.php:12
+msgid "CUI:"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/view.php:19
+msgid "Data:"
+msgstr ""
+
+#: app/Views/web/widgets/vat-check/view.php:27
+msgid "Verifică"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/verificare-tva"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Acest plugin crează un widget pe care îl puteți afișa pe site-ul dvs. și "
+"care le permite vizitatorilor să verifice starea TVA a unei companii din "
+"România, la o anumită dată."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The Bug Software Development & Consulting S.R.L."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://thebug.io"
+msgstr ""
